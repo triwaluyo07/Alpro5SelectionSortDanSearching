@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522139541 source:d:\alpro5\searching\fungsi.c
+	"header.h"
+
+1522139122 d:\alpro5\searching\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1522139629 source:d:\alpro5\searching\main.c
+	"header.h"
+

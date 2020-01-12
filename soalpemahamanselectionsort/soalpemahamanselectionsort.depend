@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1522132140 source:f:\data\myfile\kuliah\aslab\alpro\minggu ke 5\soalpemahamanselectionsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1522136518 source:d:\alpro5\soalpemahamanselectionsort\fungsi.c
+	"header.h"
+
+1522135674 d:\alpro5\soalpemahamanselectionsort\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1522136377 source:d:\alpro5\soalpemahamanselectionsort\main.c
+	"header.h"
+
